@@ -10,4 +10,14 @@ Understanding Network Geography
 5. WAN - Wide Area Network (Country, worldwide, internet)
    1. Cell modem example for cars
 
+Wired Network Topology
+
+Physical - cabled and using different types of media 
+Logical - Network connection, network flow
+
+Bus Topology -  a single cable where each device taps into by using either a vampire tap 
+or a T-connector
+
+
+
 
